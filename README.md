@@ -4,7 +4,13 @@ Hi 👋 My name is José Luis París Reyes
 Cybersec Enthusiast and Dev
 ---------------------------
 
-I've been learning about Computer Science for 4 years. I started my career coding in C++ and then I tried Java and Python. To this day I have programmed in several languages ​​to a greater or lesser extent such as Go, HTML, CSS, PHP and C. I love learning about cybersecurity, networks and new programming languages. In the future I will continue developing my career in infosec and server administration.* 🌍  I'm based in Granada* 🧠  I'm learning Cybersecurity topics and Javascript* 🤝  I'm open to collaborating on interesting open source projects
+I've been learning about Computer Science for 4 years. I started my career coding in C++ and then I tried Java and Python. To this day I have programmed in several languages to a greater or lesser extent such as Go, HTML, CSS, PHP and C. 
+
+I love learning about cybersecurity, networks and new programming languages. In the future I will continue developing my career in infosec and server administration. 
+
+🌍  I'm based in Granada 
+🧠  I'm learning Cybersecurity topics and Javascript 
+🤝  I'm open to collaborating on interesting open source projects
 
 ### Skills
 
