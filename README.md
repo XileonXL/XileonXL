@@ -8,9 +8,9 @@ I've been learning about Computer Science for 4 years. I started my career codin
 
 I love learning about cybersecurity, networks and new programming languages. In the future I will continue developing my career in infosec and server administration. 
 
-🌍  I'm based in Granada*
-🧠  I'm learning Cybersecurity topics and Javascript
-🤝  I'm open to collaborating on interesting open source projects
+🌍  I'm based in Granada.
+🧠  I'm learning Cybersecurity topics and Javascript.
+🤝  I'm open to collaborating on interesting open source projects.
 
 ### Skills
 
