@@ -10,7 +10,7 @@ I love learning about cybersecurity, networks and new programming languages. In 
 
 🌍  I'm based in Granada.
 
-🧠  I'm learning Cybersecurity topics and Javascript.
+🧠  I'm learning Cybersecurity topics.
 
 🤝  I'm open to collaborating on interesting open source projects.
 
